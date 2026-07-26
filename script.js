@@ -204,7 +204,7 @@
     cat: "Slicer",     
     image: "https://m.media-amazon.com/images/I/41Wfa75Yw0L._AC_.jpg",
     rating: 4, 
-    reviews: "690",  
+    reviews: "3k",  
     desc: "Three-way egg slicing options, including slicing, wedging, and dicing.", 
     badge: "",
     link: "https://amzn.to/4wowgQz", 
@@ -216,10 +216,21 @@
     cat: "Slicer",     
     image: "https://m.media-amazon.com/images/I/71MQ0F6R99L._AC_SL1500_.jpg",
     rating: 4, 
-    reviews: "690",  
+    reviews: "2.1k",  
     desc: "You can keep away from onion irritation when cutting, reduce tears troubles, enjoy a pleasant kitchen time..", 
     badge: "",
     link: "https://amzn.to/3Tn2FIq",
+  },
+   { 
+    id: 19, 
+    name: "Glass Storage Containers",       
+    cat: "Glass Storage Containers",     
+    image: "https://m.media-amazon.com/images/I/81g59+WOxDL._AC_SL1500_.jpg",
+    rating: 4, 
+    reviews: "1.1k",  
+    desc: "Keep your pantry neat with this 6-piece glass storage container set, featuring airtight lids to keep food fresh and organized.", 
+    badge: "",
+    link: "https://amzn.to/3Td04AX",
   }
 ];
 
