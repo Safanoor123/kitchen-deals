@@ -342,6 +342,29 @@
     badge: "",
     link: "https://amzn.to/3RjopV8",
   },
+   { 
+    id: 30, 
+    name: "Stainless Steel Cutting Boards",       
+    cat: "Kitchen Accessories",     
+    image: "https://m.media-amazon.com/images/I/31cDixzSD5L._AC_.jpg",
+    rating: 4, 
+    reviews: "1.35k",  
+    desc: "These stainless steel cutting boards are a must-have for any kitchen!", 
+    badge: "",
+    link: "https://amzn.to/4w34tUQ",
+  },
+   { 
+    id: 31, 
+    name: "10 Piece Wooden Spoons",       
+    cat: "Kitchen Accessories",     
+    image: "https://m.media-amazon.com/images/I/81vbwpSRKXL._AC_SL1500_.jpg",
+    rating: 4, 
+    reviews: "8.3k",  
+    desc: "These wooden spoons are a must-have for any kitchen! They're durable, heat resistant, and nonstick safe.", 
+    badge: "",
+    link: "https://amzn.to/4fTohF7",
+  },
+    
     
     
 ];
