@@ -320,6 +320,29 @@
     badge: "",
     link: "https://amzn.to/4fW5Yiz",
   },
+  { 
+    id: 28, 
+    name: "Garlic Press Rocker",       
+    cat: "Garlic Presses",     
+    image: "https://m.media-amazon.com/images/I/71VSv-kU0JL._AC_SL1500_.jpg",
+    rating: 4, 
+    reviews: "1.2k",  
+    desc: "Got this garlic press rocker and it's so handy! Mince garlic with ease and so much faster!", 
+    badge: "",
+    link: "https://amzn.to/4b9pMMQ",
+  },
+    { 
+    id: 29, 
+    name: "Manual Lemon Squeezer",       
+    cat: "Kitchen Accessories",     
+    image: "https://m.media-amazon.com/images/I/61rNlh7JP7L._AC_SL1500_.jpg",
+    rating: 4, 
+    reviews: "11",  
+    desc: "This manual lemon squeezer makes a great gift. Great for your kitchen and picnics!", 
+    badge: "",
+    link: "https://amzn.to/3RjopV8",
+  },
+    
     
 ];
 
