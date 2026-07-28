@@ -364,8 +364,28 @@
     badge: "",
     link: "https://amzn.to/4fTohF7",
   },
-    
-    
+    { 
+    id: 32, 
+    name: "Mini Rechargeable Bag Sealer",       
+    cat: "Kitchen Accessories",     
+    image: "https://m.media-amazon.com/images/I/616sP89sRQL._AC_SL1500_.jpg",
+    rating: 4, 
+    reviews: "125",  
+    desc: "This mini bag sealer makes storing snacks a breeze!", 
+    badge: "New",
+    link: "https://amzn.to/4bMC51I",
+  },
+     { 
+    id: 33, 
+    name: "Bento Adult Lunch Box",       
+    cat: "Lunch Boxes",     
+    image: "https://m.media-amazon.com/images/I/71GpXNB86HL._AC_SL1500_.jpg",
+    rating: 4, 
+    reviews: "6.5k",  
+    desc: "These bento boxes are perfect for packed lunches! Comes with everything you need.", 
+    badge: "Overall Pick",
+    link: "https://amzn.to/4c750xz",
+  },
     
 ];
 
