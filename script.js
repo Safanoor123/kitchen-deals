@@ -386,6 +386,17 @@
     badge: "Overall Pick",
     link: "https://amzn.to/4c750xz",
   },
+    { 
+    id: 34, 
+    name: "Easy Egg Cooker",       
+    cat: "Electric Machines",     
+    image: "https://m.media-amazon.com/images/I/61ZeliK9bjL._AC_SL1500_.jpg",
+    rating: 4, 
+    reviews: "14.8k",  
+    desc: "This egg cooker is perfect for cooking any type of egg! Soft, medium, or hard-boiled - no problem!", 
+    badge: "Overall Pick",
+    link: "https://amzn.to/4fO3NN0",
+  },
     
 ];
 
