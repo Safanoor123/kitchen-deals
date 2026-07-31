@@ -397,7 +397,51 @@
     badge: "Overall Pick",
     link: "https://amzn.to/4fO3NN0",
   },
-    
+  { 
+    id: 35, 
+    name: "2 Pcs Finger Guard for Cutting aid",       
+    cat: "Kitchen Accessories",     
+    image: "https://m.media-amazon.com/images/I/61LZxyoN5vL._AC_SL1200_.jpg",
+    rating: 4, 
+    reviews: "1.6k",  
+    desc: "Perfect for the kitchen, these stainless steel finger guards make cutting easier and safer.", 
+    badge:"",
+    link: "https://amzn.to/3U6hWxv",
+  },
+   { 
+    id: 37, 
+    name: "Jar & Bottle Opener",       
+    cat: "Kitchen Accessories",     
+    image: "https://m.media-amazon.com/images/I/61xYvdy15jL._AC_SL1500_.jpg",
+    rating: 4, 
+    reviews: "5k",  
+    desc: "Say goodbye to struggles with jars! This jar opener is a lifesaver for anyone with arthritis or weak hands.", 
+    badge:"",
+    link: "https://amzn.to/4wCtUgW",
+  },
+   { 
+    id: 38, 
+    name: "Aluminium Egg Slicer",       
+    cat: "Slicer",     
+    image: "https://m.media-amazon.com/images/I/71rlq+zSfDL._AC_SL1500_.jpg",
+    rating: 4, 
+    reviews: "7.9k",  
+    desc: "This egg slicer is perfect for hard boiled eggs and more!", 
+    badge:"",
+    link: "https://amzn.to/4xizp4s",
+  },
+  
+ { 
+    id: 39, 
+    name: "Boards with Wood Storage Stand",       
+    cat: "Kitchen Accessories",     
+    image: "https://m.media-amazon.com/images/I/91xky+JYmZL._AC_SL1500_.jpg",
+    rating: 4, 
+    reviews: "2.4k",  
+    desc: "These bamboo boards are perfect for any kitchen! They're reversible and come with a storage stand.", 
+    badge:"",
+    link: "https://amzn.to/45yqM9T",
+  },   
 ];
 
 
