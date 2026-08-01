@@ -453,6 +453,28 @@
     badge:"",
     link: "https://amzn.to/4yStLHC",
   },    
+     { 
+    id: 41, 
+    name: "Electric Vegetable Cutter",       
+    cat: "Electric Machines",     
+    image: "https://m.media-amazon.com/images/I/71WCdHKPmfL._AC_SL1500_.jpg",
+    rating: 4, 
+    reviews: "1.3k",  
+    desc: "These cutters make making fries a breeze! Perfect for families and seniors alike.", 
+    badge:"",
+    link: "https://link.amazon/B09fuTQcy",
+  }, 
+    { 
+    id: 42, 
+    name: "Restaurant Play Food Set Toy",       
+    cat: "Back To School",     
+    image: "https://m.media-amazon.com/images/I/814QvlTHxZL._AC_SL1500_.jpg",
+    rating: 4, 
+    reviews: "161",  
+    desc: "This fast food set is so much fun for kids! It's the perfect birthday gift for imaginative play.", 
+    badge:"",
+    link: "https://link.amazon/B0fSXQ365",
+  }, 
 ];
 
 
