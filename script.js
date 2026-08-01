@@ -378,7 +378,7 @@
      { 
     id: 33, 
     name: "Bento Adult Lunch Box",       
-    cat: "Lunch Boxes",     
+    cat: "Back To School",     
     image: "https://m.media-amazon.com/images/I/71GpXNB86HL._AC_SL1500_.jpg",
     rating: 4, 
     reviews: "6.5k",  
@@ -441,7 +441,18 @@
     desc: "These bamboo boards are perfect for any kitchen! They're reversible and come with a storage stand.", 
     badge:"",
     link: "https://amzn.to/45yqM9T",
-  },   
+  },  
+   { 
+    id: 40, 
+    name: "Leakproof Kids Water Bottle",       
+    cat: "Back To School",     
+    image: "https://m.media-amazon.com/images/I/51slfcLImjL._AC_SL1500_.jpg",
+    rating: 4, 
+    reviews: "1.1k",  
+    desc: "Keep your little one hydrated with this fun cat-designed water bottle! Perfect for school or on the go.", 
+    badge:"",
+    link: "https://amzn.to/4yStLHC",
+  },    
 ];
 
 
