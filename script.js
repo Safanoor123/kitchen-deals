@@ -475,6 +475,17 @@
     badge:"",
     link: "https://link.amazon/B0fSXQ365",
   }, 
+  { 
+    id: 43, 
+    name: "Stone Kitchen Mat",       
+    cat: "Kitchen Accessories",     
+    image: "https://m.media-amazon.com/images/I/51H0LRcqXdL._AC_SL1190_.jpg",
+    rating: 4, 
+    reviews: "161",  
+    desc: "These mats are perfect for my kitchen and help keep it organized and clean!", 
+    badge:"",
+    link: "https://link.amazon/B07Rie5Hb",
+  }, 
 ];
 
 
