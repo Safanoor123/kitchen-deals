@@ -481,10 +481,21 @@
     cat: "Kitchen Accessories",     
     image: "https://m.media-amazon.com/images/I/51H0LRcqXdL._AC_SL1190_.jpg",
     rating: 4, 
-    reviews: "161",  
+    reviews: "25",  
     desc: "These mats are perfect for my kitchen and help keep it organized and clean!", 
     badge:"",
     link: "https://link.amazon/B07Rie5Hb",
+  }, 
+    { 
+    id: 44, 
+    name: "Large Stone Dish Drying Mat",       
+    cat: "Kitchen Accessories",     
+    image: "https://m.media-amazon.com/images/I/71EoT+LdJvL._AC_SL1500_.jpg",
+    rating: 4, 
+    reviews: "5",  
+    desc: "These stone dish drying mats are perfect for any kitchen counter. Keep your dishes dry and organized.", 
+    badge:"",
+    link: "https://link.amazon/B09pJMRYl",
   }, 
 ];
 
