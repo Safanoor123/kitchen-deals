@@ -614,9 +614,20 @@
     image: "https://m.media-amazon.com/images/I/71iCcD-ZCZL._AC_SL1500_.jpg",
     rating: 4, 
     reviews: "111",  
-    desc: "he deep spoon-shaped head holds more food than a flat spatula, making it easier to scoop and serve eggs, rice, pasta, oatmeal, chili, and sauces. ", 
+    desc: "the deep spoon-shaped head holds more food than a flat spatula, making it easier to scoop and serve eggs, rice, pasta, oatmeal, chili, and sauces. ", 
     badge:"",
     link: "https://amzn.to/4wWz73j",
+  },
+   { 
+    id: 56,
+    name: "Liebe&Lecker Immersion Blender Handheld, 300W Electric Stick Blender",
+    cat: "Electric Machines",     
+    image: "https://m.media-amazon.com/images/I/71If+OYiZbL._AC_SL1500_.jpg",
+    rating: 4, 
+    reviews: "111",  
+    desc: "This electric stick mixer is powered by a high-efficiency 300W pure copper motor that delivers professional-grade blending power.", 
+    badge:"",
+    link: "https://www.amazon.com/dp/B0GJZ6KS5K?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.LI7NOFITDXCX&linkCode=tr1&tag=kitchendeal0e-20&linkId=amzn1.campaign.LI7NOFITDXCX_1786789703583",
   },
 ];
 
