@@ -629,6 +629,17 @@
     badge:"",
     link: "https://www.amazon.com/dp/B0GJZ6KS5K?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.LI7NOFITDXCX&linkCode=tr1&tag=kitchendeal0e-20&linkId=amzn1.campaign.LI7NOFITDXCX_1786789703583",
   },
+     { 
+    id: 57,
+    name: "CAROTE 15pcs Pots and Pans Set Non Stick, Cookware Set Detachable Handle",
+    cat: "Kitchen & Dining",     
+    image: "https://m.media-amazon.com/images/I/81dtx2DS+YL._AC_SL1500_.jpg",
+    rating: 4, 
+    reviews: "229",  
+    desc: "Featuring a high-quality nonstick coating, food slides off effortlessly without sticking or burning, so you can cook with less oil and enjoy healthier meals every day", 
+    badge:"",
+    link: "https://amzn.to/4cAIa1F",
+  },
 ];
 
 
